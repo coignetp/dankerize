@@ -8,7 +8,7 @@ setup(
   author = 'Paul Coignet',
   author_email = 'paulcoignet1996@gmail.com',
   url = 'https://github.com/coignetp/dankerize',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/coignetp/dankerize/archive/v_01.tar.gz',
   keywords = ['useless', 'string', 'test'],
   classifiers=[
     'Development Status :: 3 - Alpha',
